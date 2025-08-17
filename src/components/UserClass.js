@@ -24,7 +24,7 @@ class UserClass extends React.Component {
             userInfo: json
         })
 
-        console.log(json);
+        // console.log(json);
 
     }
 

@@ -1,0 +1,36 @@
+{
+  "name": "reactjs",
+  "version": "1.0.0",
+  "description": "react js tuts",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ravi9619/ReactJs.git"
+  },
+  "keywords": [
+    "react",
+    "ravi-react"
+  ],
+  "author": "Ravi Dubey",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ravi9619/ReactJs/issues"
+  },
+  "homepage": "https://github.com/Ravi9619/ReactJs#readme",
+  "devDependencies": {
+    "parcel": "^2.15.4"
+  },
+  "dependencies": {
+    "@reduxjs/toolkit": "^2.8.2",
+    "@tailwindcss/postcss": "^4.1.12",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "react-redux": "^8.1.3",
+    "react-router-dom": "^6.30.1",
+    "tailwindcss": "^4.1.12"
+  }
+}
